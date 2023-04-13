@@ -1,10 +1,8 @@
 # Semester-2 CMSA notes and source code
 
-## Build all binary files
-
 ## Lecture notes
 
-* APR 13, 2023 ---------------------------------> PM
+### APR 13, 2023 ---------------------------------> PM
 
 Discrete Mathematics vy Rosen 
 G(V, E) -> Equation of graph
@@ -15,10 +13,10 @@ DEFINE : Parallel Edge, Self Loop, Konigsberg Bridge Problem, Incidence & Degree
 
 Simple graph -> Excludes self loop and parallel edge
 
-**
 PROVE : The number of vertices of odd degree of a graph is always even
-n∑i=1di=2|E|
-**
+$$
+    n∑i=1di=2|E|
+$$
 
 Conditions to determine Isomorphic graph :
 - Same number of vertices
@@ -30,12 +28,12 @@ DEFINE : Open walk, Closed walk, Terminal Vertices, Simple path
 
 DEFINE : Circuit, CONNECTED & DISCONNECTED GRAPH
 
-DIARGAM : Sub-graph G 
-                |---> WALK G 
-                        |----> CIRCUIT G
-                        |----> PATH G 
-
-
+DIARGAM : 
+    
+    Sub-graph G 
+          |---> WALK G                 
+                  |----> CIRCUIT G
+                  |----> PATH G        
 
 Euler graph : a closed graph walk running through every edge of G(graph) exactly once (Euler Line), and the graph that consists of an euler line is called Euler graph
 Condition of Euler line : degree of every vertex is even
