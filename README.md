@@ -79,26 +79,24 @@ $$
     - Rooted and Binary Trees   
     - Relation of Nodes and Levels in Binary Tree 
         
-    $$
-        max l_{max} = \frac{n - 1}{2} 
-    $$
+        ```math
+            max l_{max} = \frac{n - 1}{2} 
+        ```
     - Spanning Trees
     - rank
 
-    $$
+        ```math
         r = n - k \left(Components\right) 
-    $$
+        ```
     - nullity
             
-    $$
+    ```math
         \mu = e - n + k 
-    $$
+    ```
 
-    ``
-    $$
+    ```math
     r + \mu = e 
-    $$
-    ``
+    ```
     - Matrix Representation of Graphs [CHAPTER 7]
     - Incidence Matrix, Circuit Matrix, Path Matrix, Adjacency Matrix, 
 
