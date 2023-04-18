@@ -71,7 +71,7 @@ $$
 **REFERENCE ->**
    - Graph theory (by N. Deo) -> [Pg. No. 40~91 , Ch 7 (partial)]
 
-* DEFINE : 
+**DEFINE :**
     - Connected Graphs, Disconnected Graphs & Components
     - Trees, Decision/Sorting Trees
     - Distance and Center(s) in a tree
@@ -85,7 +85,7 @@ $$
     - Matrix Representation of Graphs [CHAPTER 7]
     - Incidence Matrix, Circuit Matrix, Path Matrix, Adjacency Matrix, 
 
-* THEOREM :
+**THEOREM :**
     - Any connected graph with n vertices and n - 1 edges is a tree.
     - A graph is a tree if and only if it is minimally connected.
     - A graph G with n vertices, n − 1 edges, and no circuits is connected.
