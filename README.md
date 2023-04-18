@@ -65,7 +65,6 @@ $$
                               |-----------> Hamiltonian Path
 
 * PROBLEM : UNION, INTERSECTION, RING-SUM OF GRAPH
-<<<<<<< HEAD
 
 ### APR 18, 2023 ---------------------------------> PM
 
@@ -79,15 +78,21 @@ $$
     - Eccentricity in graph
     - Rooted and Binary Trees   
     - Relation of Nodes and Levels in Binary Tree 
-    
-            $$ max l_{max} = \frac{n - 1}{2} $$
+        
+            $$
+                max l_{max} = \frac{n - 1}{2} 
+            $$
     - Spanning Trees
     - rank
 
-            $ r = n - k \left(Components\right) $
+            $$
+                r = n - k \left(Components\right) 
+            $$
     - nullity
             
-            $ \mu = e - n + k $
+            $$
+                \mu = e - n + k 
+            $$
 
     ``
         $ r + \mu = e $
@@ -101,5 +106,3 @@ $$
     - A graph G with n vertices, n − 1 edges, and no circuits is connected.
 
 **[NOTE : The nullity of a graph is also referred to as its cyclomatic number, or first Betti number.]**
-=======
->>>>>>> parent of dd42490 (updated)
