@@ -77,26 +77,11 @@ $$
     - Distance and Center(s) in a tree
     - Eccentricity in graph
     - Rooted and Binary Trees   
-    - Relation of Nodes and Levels in Binary Tree 
-        
-        ```math
-            l_{max} = \frac{n - 1}{2} 
-        ```
+    - Relation of Nodes and Levels in Binary Tree $l_{max}=\frac{n - 1}{2}$ 
     - Spanning Trees
-    - rank
-
-        ```math
-        r = n - k \left(Components\right) 
-        ```
-    - nullity
-            
-    ```math
-        \mu = e - n + k 
-    ```
-
-    ```math
-    r + \mu = e 
-    ```
+    - rank $r = n - k \left(Components\right)$
+    - nullity $\mu = e - n + k$ 
+    - $rank_r + nulitty_\mu = edges_e$
     - Matrix Representation of Graphs [CHAPTER 7]
     - Incidence Matrix, Circuit Matrix, Path Matrix, Adjacency Matrix, 
 
