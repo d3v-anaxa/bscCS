@@ -27,8 +27,7 @@ $$
 * PROVE : 
     - The number of vertices of odd degree of a graph is always even
 
-* THEOREM :
-    - A given connected graph G is an euler graph if and only if all vertices of g are of even degree.
+**THEOREM : A given connected graph G is an euler graph if and only if all vertices of g are of even degree**
 
 * Simple graph -> Excludes self loop and parallel edge
 
@@ -66,6 +65,7 @@ $$
                               |-----------> Hamiltonian Path
 
 * PROBLEM : UNION, INTERSECTION, RING-SUM OF GRAPH
+<<<<<<< HEAD
 
 ### APR 18, 2023 ---------------------------------> PM
 
@@ -101,3 +101,5 @@ $$
     - A graph G with n vertices, n − 1 edges, and no circuits is connected.
 
 **[NOTE : The nullity of a graph is also referred to as its cyclomatic number, or first Betti number.]**
+=======
+>>>>>>> parent of dd42490 (updated)
