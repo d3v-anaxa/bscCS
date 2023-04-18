@@ -80,7 +80,7 @@ $$
     - Rooted and Binary Trees   
     - Relation of Nodes and Levels in Binary Tree 
     
-            $ max l_{max} = \frac{n - 1}{2} $
+            $$ max l_{max} = \frac{n - 1}{2} $$
     - Spanning Trees
     - rank
 
