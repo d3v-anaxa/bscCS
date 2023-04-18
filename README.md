@@ -72,22 +72,22 @@ $$
    - Graph theory (by N. Deo) -> [Pg. No. 40~91 , Ch 7 (partial)]
 
 **DEFINE :**
-    - Connected Graphs, Disconnected Graphs & Components
-    - Trees, Decision/Sorting Trees
-    - Distance and Center(s) in a tree
-    - Eccentricity in graph
-    - Rooted and Binary Trees   
-    - Relation of Nodes and Levels in Binary Tree $l_{max}=\frac{n - 1}{2}$ 
-    - Spanning Trees
-    - rank $r = n - k \left(Components\right)$
-    - nullity $\mu = e - n + k$ 
-    - $rank_r + nulitty_\mu = edges_e$
-    - Matrix Representation of Graphs [CHAPTER 7]
-    - Incidence Matrix, Circuit Matrix, Path Matrix, Adjacency Matrix, 
+   - Connected Graphs, Disconnected Graphs & Components
+   - Trees, Decision/Sorting Trees
+   - Distance and Center(s) in a tree
+   - Eccentricity in graph
+   - Rooted and Binary Trees   
+   - Relation of Nodes and Levels in Binary Tree $l_{max}=\frac{n - 1}{2}$ 
+   - Spanning Trees
+   - rank $r = n - k \left(Components\right)$
+   - nullity $\mu = e - n + k$ 
+   - $rank_r + nulitty_\mu = edges_e$
+   - Matrix Representation of Graphs [CHAPTER 7]
+   - Incidence Matrix, Circuit Matrix, Path Matrix, Adjacency Matrix, 
 
 **THEOREM :**
-    - Any connected graph with n vertices and n - 1 edges is a tree.
-    - A graph is a tree if and only if it is minimally connected.
-    - A graph G with n vertices, n − 1 edges, and no circuits is connected.
+   - Any connected graph with n vertices and n - 1 edges is a tree.
+   - A graph is a tree if and only if it is minimally connected.
+   - A graph G with n vertices, n − 1 edges, and no circuits is connected.
 
 **[NOTE : The nullity of a graph is also referred to as its cyclomatic number, or first Betti number.]**
