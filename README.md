@@ -91,3 +91,19 @@ $$
    - A graph G with n vertices, n − 1 edges, and no circuits is connected.
 
 **[NOTE : The nullity of a graph is also referred to as its cyclomatic number, or first Betti number.]**
+
+
+### APR 24, 2023 ---------------------------------> PM
+
+
+**REFERENCE ->**
+   - Graph theory (by N. Deo) -> [Pg. No. 62 (Ch 3/partial/), 68-79 (Ch 4 /partial/), 302 (Ch 11 /partial/)]
+
+**DEFINE :**
+   - Cut-set, Chromatic number
+   - Edge-Connectivity, Vertex-Connectivity, Seperable Graph
+   - Prim's algorithm, Kruskal's algorithm [Pg. No. 62 /para 3 & 4/]
+   - BFS (Breadth-First Search), DFS (Depth-First Search) [Pg. No. 302]
+
+**THEOREM :**
+   - A tree can have a maximum of 2 chromatic number / vertices
