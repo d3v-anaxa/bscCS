@@ -9,17 +9,18 @@ class CheckPrime{
             System.out.print("Enter a positive integer : ");
             num = in.nextInt();
             if (num < 1) {
-                System.out.println("Invalid input! Try again!");
+                System.out.println("Input a positive integer!");
                 continue;
-            }   break;
+            }   
+            in.close();
+            break;
         }
         for (int i = 2; i*i <= num; i++){
             if(num % i == 0){
-                isPrimeFlag = false;
+                isPrimeFlag = !isPrimeFlag;
                 break;
             }
         }  
         System.out.println(num + ( isPrimeFlag ? " is prime!" : " is not prime!"));
-        in.close();
     }
 }

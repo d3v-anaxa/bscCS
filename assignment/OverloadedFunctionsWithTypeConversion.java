@@ -4,7 +4,7 @@ class OverloadedFunctionsWithTypeConversion{
         System.out.println( x + " --(int to double)--> " + (float)(x));
     }
     public static void func(double x){
-        System.out.println( x + " --(double to float)--> " + (float)(x));
+        System.out.println( x + " --(double to int)--> " + (int)(x));
     }
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
